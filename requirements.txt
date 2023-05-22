@@ -1,0 +1,7 @@
+Django
+nltk
+numpy
+pandas==1.5.0
+waitress
+whitenoise
+scikit-learn 
